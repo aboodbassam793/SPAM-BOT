@@ -2,7 +2,7 @@
 //copyright © Angry Black 2020.//❦Angry Black❦
 
 const Discord = require("discord.js");
-const myid = ['Your ID'];//هنا بتحط الايدى تبع حسابك و هو رقم طول
+const myid = ['696483121977098262'];//هنا بتحط الايدى تبع حسابك و هو رقم طول
 const prefix = ['$']; 
 const client = new Discord.Client("NzQ0Mzc4MzU2NTYwMDM1OTMw.Xzie-w.07EckFqm3ik2PJxYCgHlEva5tR4");
 const client2 = new Discord.Client();
